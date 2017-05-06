@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: 2T Project Custom Post Type
+Plugin Name: MRo Project Custom Post Type
 Plugin URI: https://2tabbies.com/
-Description: Declares a plugin that will create a custom post type displaying projects.
+Description: Projects custom post type, includes gallery field.
 Version: 1.0
 Author: Mat Rosero
 Author URI: https://2tabbies.com/
