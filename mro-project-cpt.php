@@ -114,3 +114,6 @@ function mro_register_project_categories() {
 }
 
 add_action( 'init', 'mro_register_project_categories' );
+
+
+require_once __DIR__ . '/cmb-functions.php';
