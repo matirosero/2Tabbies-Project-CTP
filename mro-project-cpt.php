@@ -56,7 +56,7 @@ function mro_register_project() {
 		'capability_type'     => 'post',
 		'supports'            => array(
 			'title', 'editor', 'author', 'thumbnail',
-			'excerpt','custom-fields', 'revisions', 'page-attributes'
+			'excerpt', 'revisions', 'page-attributes'
 			)
 	);
 
